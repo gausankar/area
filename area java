@@ -1,0 +1,8 @@
+improt java.io.*;
+class area
+{
+ public tatic void main(String args[])
+ {
+  System.out.println("area,rollno");
+  }
+  }
