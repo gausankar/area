@@ -1,8 +1,8 @@
 improt java.io.*;
-class area
+class Area
 {
  public static void main(String args[])
  {
-       System.out.println("Area,rollno");
+       System.out.println("Area,Rollno");
   }
  }
